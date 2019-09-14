@@ -15,11 +15,13 @@ git clone https://github.com/hahmed01/Langton-Ant
 1) Complile using:
 ```
 make
-
 ```
 2) Run using
-
 ```
 LangtonAnt
-
+```
+```
+## Images of Running Langton's Ant
+![Entering dimensions]{images/LangtonAnt1.jpg)
+![Running Langton's Ant](LangtonAnt2.jpg)
 
