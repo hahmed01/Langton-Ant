@@ -2,8 +2,8 @@
 
 A simulation of Langton's Ant in c++. The user can enter the dimentionas of the board, and an Ant (represented by "*" will be placed 
 on the board. The movement of the Ant follows these rules:
-    1) If the ant is on a white space, turn right 90 degrees and change the space to black (represented by "#").
-    2) If the ant is on a black space, turn left 90 degrees and change the space to white (represented by " ").
+1. If the ant is on a white space, turn right 90 degrees and change the space to black (represented by "#").
+2. If the ant is on a black space, turn left 90 degrees and change the space to white (represented by " ").
     
     
 
