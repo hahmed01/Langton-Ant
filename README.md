@@ -20,8 +20,8 @@ make
 ```
 LangtonAnt
 ```
-```
+
 ## Images of Running Langton's Ant
-![Entering dimensions]{images/LangtonAnt1.jpg)
-![Running Langton's Ant](LangtonAnt2.jpg)
+![Entering dimensions]{https://github.com/hahmed01/Langton-Ant/blob/master/images/LangtonAnt1.jpg)
+![Running Langton's Ant](https://github.com/hahmed01/Langton-Ant/blob/master/images/LangtonAnt2.jpg)
 
