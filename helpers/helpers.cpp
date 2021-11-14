@@ -1,9 +1,6 @@
 /*********************************************************************
 ** Program name: Langton's Ant
 ** Author: Haya Ahmed
-** Date: October 10, 2018 (used 3 bonus days on this assignment)
-** Description: Implememntation of helper functions, and source code of 
-the helper functions.
 *********************************************************************/
 
 
